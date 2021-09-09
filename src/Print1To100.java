@@ -26,6 +26,14 @@ public class Print1To100 {
             System.out.println(i);
         }
 
+        int[] arr = new int['d'];
+
+        System.out.println("Third way");
+        for(int i = 'a'/'a'; i<=arr.length; i++){
+            System.out.println(i);
+        }
+        
+
     }
     
 }
